@@ -273,9 +273,6 @@ This project is licensed under the **MIT License** — you're free to use, modif
 ---
 
 <div align="center">
-
-Made with ❤️ and C# by [**isra-w**](https://github.com/isra-w)
-
 ⭐ **If you found this useful, give it a star!** ⭐
 
 </div>
