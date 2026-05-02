@@ -1,0 +1,17 @@
+C:\Users\israe\source\repos\python\d.labdemo\bin\Debug\net10.0-windows\d.labdemo.exe
+C:\Users\israe\source\repos\python\d.labdemo\bin\Debug\net10.0-windows\d.labdemo.deps.json
+C:\Users\israe\source\repos\python\d.labdemo\bin\Debug\net10.0-windows\d.labdemo.runtimeconfig.json
+C:\Users\israe\source\repos\python\d.labdemo\bin\Debug\net10.0-windows\d.labdemo.dll
+C:\Users\israe\source\repos\python\d.labdemo\bin\Debug\net10.0-windows\d.labdemo.pdb
+C:\Users\israe\source\repos\python\d.labdemo\obj\Debug\net10.0-windows\d.labdemo.d_lab.resources
+C:\Users\israe\source\repos\python\d.labdemo\obj\Debug\net10.0-windows\d.labdemo.csproj.GenerateResource.cache
+C:\Users\israe\source\repos\python\d.labdemo\obj\Debug\net10.0-windows\d.labdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\israe\source\repos\python\d.labdemo\obj\Debug\net10.0-windows\d.labdemo.AssemblyInfoInputs.cache
+C:\Users\israe\source\repos\python\d.labdemo\obj\Debug\net10.0-windows\d.labdemo.AssemblyInfo.cs
+C:\Users\israe\source\repos\python\d.labdemo\obj\Debug\net10.0-windows\d.labdemo.csproj.CoreCompileInputs.cache
+C:\Users\israe\source\repos\python\d.labdemo\obj\Debug\net10.0-windows\d.labdemo.dll
+C:\Users\israe\source\repos\python\d.labdemo\obj\Debug\net10.0-windows\refint\d.labdemo.dll
+C:\Users\israe\source\repos\python\d.labdemo\obj\Debug\net10.0-windows\d.labdemo.pdb
+C:\Users\israe\source\repos\python\d.labdemo\obj\Debug\net10.0-windows\d.labdemo.genruntimeconfig.cache
+C:\Users\israe\source\repos\python\d.labdemo\obj\Debug\net10.0-windows\ref\d.labdemo.dll
+C:\Users\israe\source\repos\python\d.labdemo\obj\Debug\net10.0-windows\d.labdemo.Properties.Resources.resources
