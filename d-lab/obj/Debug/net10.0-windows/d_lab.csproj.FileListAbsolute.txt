@@ -1,7 +1,0 @@
-C:\Users\israe\source\repos\python\d.labdemo\obj\Debug\net10.0-windows\d.labdemo.d_lab.resources
-C:\Users\israe\source\repos\python\d.labdemo\obj\Debug\net10.0-windows\d_lab.Properties.Resources.resources
-C:\Users\israe\source\repos\python\d.labdemo\obj\Debug\net10.0-windows\d_lab.csproj.GenerateResource.cache
-C:\Users\israe\source\repos\python\d.labdemo\obj\Debug\net10.0-windows\d_lab.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\israe\source\repos\python\d.labdemo\obj\Debug\net10.0-windows\d_lab.AssemblyInfoInputs.cache
-C:\Users\israe\source\repos\python\d.labdemo\obj\Debug\net10.0-windows\d_lab.AssemblyInfo.cs
-C:\Users\israe\source\repos\python\d.labdemo\obj\Debug\net10.0-windows\d_lab.csproj.CoreCompileInputs.cache
